@@ -5,7 +5,7 @@
 using namespace std;
 int main(void){
 	system("clear");
-	double ho;
+	double he;
 	double ve;
 	double ang;
 	double v;
