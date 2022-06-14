@@ -12,6 +12,8 @@ Automatic calculations for the following conditions:
 
 - Altitude
 - Weight (grains)
+- Headwinds
+- Crosswinds
 - Humidity
 - Metric and Imperial Units
 - Adjustment Recommendations in MOA and MIL
