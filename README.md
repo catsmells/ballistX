@@ -33,4 +33,4 @@ Automatic calculations for the following conditions:
 - Temperature
 - Trajectory Over Given Ranges (round-specific for presets)
 
-It will limit calculations to those of reasonable suggestion. For instance, the max trajectory calculation for a standard PPU 8x57 JS soft-tip round will be limited to 800m.
+It will limit calculations to those of reasonable suggestion. For instance, the max trajectory calculation for a standard PPU 8x57 JS soft-tip round will be limited to an 800m upper range bound.
